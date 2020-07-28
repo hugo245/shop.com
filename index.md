@@ -1,6 +1,6 @@
 
 
-![Image](https://images.ctfassets.net/bwx98rfv5w3w/psRI54EopMQUCUiqK8Qwk/0080da83dd8ff94d4eff8c20e6aae2a3/worth_logo.svg)
+![Image](https://images.app.goo.gl/hiq23fAh1hmeSTCy5)
 
 ## Welcome to GitHub Pages
 
