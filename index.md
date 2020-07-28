@@ -1,3 +1,7 @@
+
+
+![Image](https://images.ctfassets.net/bwx98rfv5w3w/psRI54EopMQUCUiqK8Qwk/0080da83dd8ff94d4eff8c20e6aae2a3/worth_logo.svg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hugo245/shop.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
