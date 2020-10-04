@@ -2,11 +2,7 @@
 
 ![Image](https://cdn.pixabay.com/photo/2017/01/31/14/22/dino-2024517_1280.png)
 ![Image](trex-v-triceratops.jpg)
-![Image](https://www.thoughtco.com/thmb/bte21c7kLCtcY9W3tBPOQwPSJkc=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/476871207-58b5aa285f9b586046a23666.jpg)
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hugo245/shop.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://www.thoughtco.com/thmb/bte21c7kLCtcY9W3tBPOQwPSJkc=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/476871207-58b5aa285f9b586046a23666.jpg
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
