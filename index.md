@@ -6,7 +6,7 @@
 
 
 ### Markdown
-je kan me vraage om schoon te maaken
+ik kan bij je schoon maaken
 
 
 
